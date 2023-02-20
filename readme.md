@@ -1,0 +1,3 @@
+a) Arithmetic operators- *,+,/,-,**.  b) Assignment operators- =,+=,++,*=. c) Comparison operators- <,>,<=,>=,===, !==. d) Logical operators - &&,||,!. e) Bitwise operators- <<,|,&,^.
+a) Arithmetic oerators- let x=2, let y=3  console.log(x*y) console.log(x+y) b) Assignment operators- x += 8, x *=6.      c)Comparison operators- let x=4  console.log(x<1), console(x>5) d) Logical operators- letapplicationrefused= !eligibleforLoan, leteligibleforloan = highincome || goodcreditscore e) Bitwise operators- 5>>2 , 5|1.
+the answer will be, 1,8,15
